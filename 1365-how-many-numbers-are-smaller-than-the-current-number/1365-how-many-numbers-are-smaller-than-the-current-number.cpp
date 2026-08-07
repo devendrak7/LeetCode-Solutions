@@ -10,8 +10,8 @@ public:
                 if (nums[i] > nums[j]){
                     count++;
                 }
-            ans[i]=count;
             }
+            ans[i]=count;
         }
         return ans;
     }
