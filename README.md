@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devendrak7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/devendrak7/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devendrak7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
