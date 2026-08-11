@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/devendrak7/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -43,5 +44,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/devendrak7/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
