@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -53,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
