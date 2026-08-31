@@ -4,11 +4,14 @@ public:
     vector<int> runningSum(vector<int>& nums) {
         int sum = 0;
         int n = nums.size();
-        vector<int> runningsum;
+        vector<int> runningsum(n);
+        //vector<int> runningsum;
+
         for(int i = 0; i <n;i++)
         {
         sum += nums[i];
-        runningsum.push_back(sum);
+        // runningsum.push_back(sum);
+        runningsum[i]=sum;
         }
         return runningsum;
     }
