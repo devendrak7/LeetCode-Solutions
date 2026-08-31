@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/devendrak7/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/devendrak7/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
