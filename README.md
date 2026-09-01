@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/devendrak7/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devendrak7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
