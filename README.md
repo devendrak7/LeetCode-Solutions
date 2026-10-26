@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0055-jump-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/devendrak7/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/devendrak7/LeetCode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
