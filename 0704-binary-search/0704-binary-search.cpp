@@ -9,8 +9,8 @@ public:
 
         if (arr[mid] == target) {
             return mid; 
-        // if(arr[low] == target) return low;
-        // if(arr[high] == target) return high;
+        if(arr[low] == target) return low;
+        if(arr[high] == target) return high;
         } else if (arr[mid] < target) {
             low = mid + 1; 
         } else {
